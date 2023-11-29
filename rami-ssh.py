@@ -1,1 +1,1 @@
-print("My wife very cute")
+print("My wife very cute" + "My son very smart")
